@@ -1,1 +1,2 @@
-Good evening! I have mistake
+Hi!
+It is my first project on GIT. I am studying.
